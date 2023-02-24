@@ -1,6 +1,7 @@
 body { background-color:antiquewhite;
 
 }
+/* This CSS is for Typography*/
 h1{
     font-size: 50px; color: paleturquoise; font-family: 'Bubblegum Sans', cursive;
 }
@@ -16,4 +17,13 @@ p {
     line-height: 28px;
     font-size: 16px;
     font-family: 'Chewy', cursive;
+}
+
+.button-links{
+    border-style:solid; 
+    border-color:crimson;
+    background-color:red;
+    border-width:2px;
+    text-decoration: "none";
+    color:black;
 }
