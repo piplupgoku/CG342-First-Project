@@ -1,10 +1,15 @@
-body { background-color:antiquewhite;
+body {
+    background-color: antiquewhite;
 
 }
+
 /* This CSS is for Typography*/
-h1{
-    font-size: 50px; color: paleturquoise; font-family: 'Bubblegum Sans', cursive;
+h1 {
+    font-size: 50px;
+    color: paleturquoise;
+    font-family: 'Bubblegum Sans', cursive;
 }
+
 h2 {
     font-size: 40px;
     color: pink;
@@ -19,12 +24,17 @@ p {
     font-family: 'Chewy', cursive;
 }
 
-.button-links{
-    border-style:solid; 
-    border-color:rgb(145, 4, 32);
-    background-color:red;
-    border-width:2px;
-    text-decoration: "none";
-    color:black;
-    border-radius:15px 50px 30px 5px;
+.button-links {
+
+    border-style: solid;
+    border-color: rgb(145, 4, 32);
+    background-color: red;
+    border-width: 2px;
+    text-decoration: none;
+    color: black;
+    border-radius: 50px;
+    padding: 4px;
+    display: block;
+    width: 150px;
+    text-align: center;
 }
