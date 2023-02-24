@@ -21,9 +21,10 @@ p {
 
 .button-links{
     border-style:solid; 
-    border-color:crimson;
+    border-color:rgb(145, 4, 32);
     background-color:red;
     border-width:2px;
     text-decoration: "none";
     color:black;
+    border-radius:15px 50px 30px 5px;
 }
