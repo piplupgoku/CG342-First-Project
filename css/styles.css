@@ -51,11 +51,10 @@ p {
 }
 
 .top-banner{
-    height:240px;
+    height:150px;
     text-align:center;
-    padding: top 110px;
+    padding-top:5px;
     background-color: lightpink;
-
 }
 .main-body{
     width: 800px;
@@ -64,9 +63,10 @@ p {
 }
 
 footer{
-    height: 400px;
+    height: 50px;
     text-align:center;
     background-color:lightblue;
     padding: 10px 0;
     
+
 }
