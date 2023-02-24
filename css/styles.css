@@ -38,3 +38,12 @@ p {
     width: 150px;
     text-align: center;
 }
+.button-alert{
+    text-decoration:none;
+    color:black;
+    background-color:lightskyblue;
+    text-align:center;
+    width:200px;
+    display:block;
+
+}
