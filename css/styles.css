@@ -38,35 +38,53 @@ p {
     width: 150px;
     text-align: center;
 }
-.button-alert{
-    text-decoration:none;
-    color:black;
-    background-color:lightskyblue;
-    text-align:center;
-    width:200px;
-    display:block;
-    border-style:solid;
-    border-width:2px;
+
+.button-alert {
+    text-decoration: none;
+    color: black;
+    background-color: lightskyblue;
+    text-align: center;
+    width: 200px;
+    display: block;
+    border-style: solid;
+    border-width: 2px;
 
 }
 
-.top-banner{
-    height:150px;
-    text-align:center;
-    padding-top:5px;
+
+nav {
+    padding: 20px;
+
+}
+
+.nav-links {
+    list-style-type: none;
+
+}
+
+.nav-link li {
+    display: inline;
+}
+
+
+.top-banner {
+    height: 150px;
+    text-align: center;
+    padding-top: 5px;
     background-color: lightpink;
 }
-.main-body{
+
+.main-body {
     max-width: 800px;
-    margin:0 auto;
+    margin: 0 auto;
     padding: 0 10px;
 }
 
-footer{
+footer {
     height: 50px;
-    text-align:center;
-    background-color:lightblue;
+    text-align: center;
+    background-color: lightblue;
     padding: 10px 0;
-    
+
 
 }
