@@ -58,6 +58,7 @@ nav {
     position: fixed;
     background-color:plum;
     width:100%;
+    padding:20px;
 
 
 }
@@ -85,9 +86,9 @@ nav {
 .top-banner {
     height: 250px;
     text-align: center;
-    padding-top: 5px;
+    padding-top: 20px;
     background-color: lightpink;
-    background-image: url("https://images.pexels.com/photos/11785073/pexels-photo-11785073.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-image: url("https://images.pexels.https://animebirdreviews.files.wordpress.com/2018/10/free-iwatobi-swim-club-2013-anime-series.jpg?w=1200&h=800&crop=1/photos/11785073/pexels-photo-11785073.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
     background-size: cover ;
     background-attachment: fixed;
 }
