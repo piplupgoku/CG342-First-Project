@@ -83,7 +83,7 @@ nav {
 
 
 .top-banner {
-    height: 150px;
+    height: 250px;
     text-align: center;
     padding-top: 5px;
     background-color: lightpink;
@@ -106,3 +106,19 @@ footer {
 
 
 }
+/*Mobile Styles*/
+@media only screen and (max-width: 600px) {
+    /*Mobile styles go here*/
+    body {
+        background-color: black;
+
+    
+    }
+    h1{
+        font-size: 40px;
+        background-color: white;
+        margin: 0px;
+        color: black;
+    }
+
+  }
