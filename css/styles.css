@@ -116,9 +116,11 @@ footer {
     }
     h1{
         font-size: 40px;
-        background-color: white;
         margin: 0px;
-        color: black;
+        color: white;
+    }
+    p{
+        color:white;
     }
 
   }
